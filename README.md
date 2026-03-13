@@ -1,6 +1,5 @@
 # 万物生---流浪宠物救助计划（All-Life-Flourish-Stray-Pet-Rescue）
 
-This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
 
@@ -8,7 +7,6 @@ This template should help get you started developing with Vue 3 in Vite.
 
 ## Customize configuration
 
-See [Vite Configuration Reference](https://vite.dev/config/).
 
 ## Project Setup
 
